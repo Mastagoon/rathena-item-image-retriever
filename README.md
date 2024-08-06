@@ -13,7 +13,7 @@ This JavaScript script reads a `.txt` file containing a list of item IDs from rA
 
 1. **Clone the Repository**
 ```bash
-   git clone https://github.com/yourusername/rathena-item-image-retriever.git
+   git clone https://github.com/mastagoon/rathena-item-image-retriever.git
    cd rathena-item-image-retriever
 ```
    
